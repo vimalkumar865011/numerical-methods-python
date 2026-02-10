@@ -46,6 +46,7 @@ print("Root =", root)
 
 second file 
 newton_raphson.py
+
 def newton(f, df, x0, tol=1e-6, max_iter=100):
     x = x0
     for _ in range(max_iter):
