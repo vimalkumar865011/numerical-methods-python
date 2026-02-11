@@ -1,29 +1,19 @@
-# numerical-methods-python
-Implementation of classical numerical methods using Python for scientific computing.
+# Root Finding Methods in Python
 
-# Numerical Methods using Python
+This project implements:
 
-This project contains Python implementations of basic numerical methods
-used in scientific computing and applied mathematics.
-
-## Methods Included
 - Bisection Method
-- Regula falsi method
-- Newton–Raphson Method
+- Regula-Falsi Method
+- Newton-Raphson Method
 - Secant Method
-- main.py
 
-## Tools & Libraries
+Equation:
+f(x) = x^3 - x - 2
+
+Tools Used:
 - Python
-- NumPy (optional for extension)
+- NumPy
+- Matplotlib
 
-## Academic Use
-This project is created as part of MSc Mathematics & Computing coursework
-and NPTEL Scientific Computing using Python (IIT Delhi).
-
-## Author
-Vimal Kumar  
+Author: Vimal Kumar
 MSc Mathematics & Computing, BHU
-
-
-
