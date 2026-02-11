@@ -8,8 +8,10 @@ used in scientific computing and applied mathematics.
 
 ## Methods Included
 - Bisection Method
+- Regula falsi method
 - Newton–Raphson Method
 - Secant Method
+- main.py
 
 ## Tools & Libraries
 - Python
